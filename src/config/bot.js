@@ -463,6 +463,9 @@ export const botConfig = {
     utility: true,
     community: true,
     fun: true,
+
+    play:true,
+    
   },
 };
 
