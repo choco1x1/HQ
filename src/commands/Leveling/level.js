@@ -114,7 +114,7 @@ export default {
                     ...existingConfig,
                     configured: true,
                     enabled: true,
-                    levelUpChannel: channel.id,
+                    levelUpChannel: 1526006798643892416,
                     xpRange: { min: xpMin, max: xpMax },
                     xpCooldown: xpCooldown,
                     levelUpMessage: message,
